@@ -4,5 +4,5 @@
 - *go-study-lab* 是学习研究golang的一个实验室，后面会逐步记录和收集学习研究golang不错的文档资料。
 
 ## 目录说明
-- books 推荐学习的书籍或者文档等资料
+- books [推荐学习的书籍或者文档等资料](./books/recommend-book-list.md)
 - go-web-study-001 beego,iris,gin,echo等web应用框架的demo.
